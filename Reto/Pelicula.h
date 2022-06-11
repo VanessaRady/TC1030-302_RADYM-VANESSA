@@ -10,7 +10,7 @@ class Pelicula : public Video {
     public:
   // Metodos constructores
     Pelicula();
-    Pelicula(int _oscares);
+    Pelicula(string _iD, string _titulo, int _duracion,string _genero, double _calificacionPromedio, int _oscares);
 
   //Métodos MODIFICADORES (set)
     void setOscares(int _oscares);
@@ -21,7 +21,9 @@ class Pelicula : public Video {
     // OTROS METODOS
     string str();
 
-    protected:
+  friend ostream & operator<<(ostream &out, const Pelicula &v);
+
+    private:
     int oscares;
 
 };
