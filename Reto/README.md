@@ -4,4 +4,5 @@
 ## Avance 1
 ### UML - DIAGRAMA DE CLASES
 
-![WhatsApp Image 2022-05-23 at 11 23 27 AM](https://user-images.githubusercontent.com/105666739/170908227-465d3618-fe98-4ecf-bb70-2ad3376f0537.jpeg)
+
+![Captura de Pantalla 2021-05-28 a la(s) 8 15 38-1](https://user-images.githubusercontent.com/105666739/173897529-1185aa20-4bc8-40ae-aa9c-9d82aee18af3.png)
