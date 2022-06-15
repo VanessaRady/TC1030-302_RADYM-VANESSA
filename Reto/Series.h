@@ -1,5 +1,5 @@
-#ifndef SITUACIONPROBLEMAOOP2_SERIES_H
-#define SITUACIONPROBLEMAOOP2_SERIES_H
+#ifndef Series.h
+#define Series.h
 
 #include "Serie.h"
 #include <iostream>
